@@ -4,10 +4,10 @@ br_branch name
 repo: test_repo
 Git related project
 
-<<<<<<< Updated upstream
 created 1/7/2025
 br_swetha name
 repo: test_repo
 git related project 
-=======
+
+
 #add new users information
